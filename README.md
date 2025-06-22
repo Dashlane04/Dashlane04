@@ -2,7 +2,6 @@
 
 - 🎓 A Computer Networking student at VNU-UET with a strong focus on **microservice cloud architecture**, **cybersecurity**, **high-performance webapps** and **operating systems**. 
 - I love experimenting with robust and scalable backend systems using a fusion of **Java SpringBoot ecosystem**, **C++ wasm**, and **cloud-native technologies**.
-- In my free time, I also enjoy diving into operating systems to understand their internals.
 
 ---
 
