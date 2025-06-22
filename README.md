@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm DashLane04
 
-<!--
-**Dashlane04/Dashlane04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 A Computer Networking student at VNU-UET with a strong focus on **microservice cloud architecture**, **cybersecurity**, **high-performance webapps** and **operating systems**. 
+- I love experimenting with robust and scalable backend systems using a fusion of **Java SpringBoot ecosystem**, **C++ wasm**, and **cloud-native technologies**.
+- In my free time, I also enjoy diving into operating systems to understand their internals.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Skills**
+- Programming Languages:
+- ⚙️ `C++ wasm`  ☕ `Java`  🐍 `Python`  📜 `JavaScript/HTML`  🖥 `Bash scripting`
+- Framework:
+- 🌱 `Spring Boot ecosystem`
+- Database:
+- 🔴 `Redis`  	🐬 `MySQL` 	🧠 `Elasticsearch`  	🍃 `MongoDB`
+- Cloud:
+- ☁️ `AWS ecosystem`
+- Message-streaming:
+- 🐇 `RabbitMQ` 	🦄 `Apache Kafka`	
+- OS and Networking:
+- 🪟 `Windows`  🐧 `Linux` 	📡 `WebSocket/gRPC`
+- 📈 `System Monitoring`  - 🌐 `Networking fundamentals and protocols: TCP/IP, POP3, ssh, SSL/TLS...`
+
+
+
+
+
