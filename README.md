@@ -1,8 +1,6 @@
 **Skills**
 - Programming Languages:
 - ⚙️ `C++ wasm`  ☕ `Java`  🐍 `Python`  📜 `JavaScript/HTML`  🖥 `Bash scripting`
-- Framework:
-- 🌱 `Spring Boot ecosystem`
 - Database:
 - 🔴 `Redis`  🐬 `MySQL` 	🧠 `Elasticsearch`  	🍃 `MongoDB`
 - Cloud:
