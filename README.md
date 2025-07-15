@@ -1,12 +1,12 @@
 **Skills**
 - Programming Languages:
-- ⚙️ `C++ wasm`  ☕ `Java`  🐍 `Python`  📜 `JavaScript/HTML`  🖥 `Bash scripting`
+- ⚙️ `C/C++/Assembly`  🐍 `Python`  📜 `JavaScript/HTML`  🖥 `Bash scripting`
 - Database:
-- 🔴 `Redis`  🐬 `MySQL` 	🧠 `Elasticsearch`  	🍃 `MongoDB`
+- 🔴 `Redis`  🐬 `MySQL` 
 - Cloud:
-- ☁️ `AWS ecosystem`
-- Message-streaming:
-- 🐇 `RabbitMQ`  	🦄 `Apache Kafka`	
+- ☁️ `AWS Services + Security Fundamentals`
+- Security:
+- ⚙️ `Reverse Engineering/Malware Analysis` `Advanced Windows Internals` `Cryptography Fundamentals` `Web Pentesting`
 - OS and Networking:
 - 🪟 `Windows` 🐧 `Linux` 	📡 `WebSocket/gRPC`
 - 📈 `System Monitoring`  - 🌐 `Networking fundamentals and protocols: TCP/IP, POP3, ssh, SSL/TLS...`
