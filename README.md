@@ -1,8 +1,6 @@
 **Skills**
 - Programming Languages:
-- ⚙️ `C/C++/Assembly`  🐍 `Python`  📜 `JavaScript/HTML`  🖥 `Bash scripting`
-- Database:
-- 🔴 `Redis`  🐬 `MySQL` 
+- ⚙️ `C/C++/Assembly`  🐍 `Python`  🖥 `Bash scripting`
 - Cloud:
 - ☁️ `AWS Services + Security Fundamentals`
 - Security:
